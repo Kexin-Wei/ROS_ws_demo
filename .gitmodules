@@ -1,0 +1,6 @@
+[submodule "robot_ws"]
+	path = robot_ws
+	url = git@github.com:Kexin-Wei/Raspberry_ROS_ws_demo.git
+[submodule "dev_ws"]
+	path = dev_ws
+	url = git@github.com:Kexin-Wei/Ubuntu20_ROS_ws_demo.git
